@@ -1,5 +1,5 @@
 # HTML and Javascript Projects
-This is a repository of a Pong game that I made.
+This is a repository of any HTML and Javascript projects that I make.
 
 **2020_06_21_PongGame.html** 
 
